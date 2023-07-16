@@ -1,0 +1,12 @@
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\bin\Debug\net8.0\Advice.Contracts.deps.json
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\bin\Debug\net8.0\Advice.Contracts.dll
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\bin\Debug\net8.0\Advice.Contracts.pdb
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.csproj.AssemblyReference.cache
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.AssemblyInfoInputs.cache
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.AssemblyInfo.cs
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.dll
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\refint\Advice.Contracts.dll
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\Advice.Contracts.pdb
+C:\Users\lisa7\OneDrive\Desktop\solo\Solo\Advice.Contracts\obj\Debug\net8.0\ref\Advice.Contracts.dll

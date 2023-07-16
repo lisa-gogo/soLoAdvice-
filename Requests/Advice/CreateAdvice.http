@@ -1,0 +1,9 @@
+POST  http://localhost:5010/advice
+Content-Type: application/json
+
+{
+  "name": "have a self studying",
+  "Place": "starbucks",
+  "description": "study alone",
+  "tags": ["interesting", "coffee", "studying"]
+}
